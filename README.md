@@ -68,7 +68,7 @@ The script does **not** access any private or paid APIs, and does **not** bypass
 
 > This is an unofficial tool, with no affiliation to JustETF.
 
-If you're affiliated with JustETF and would like this repository removed or modified, feel free to [open an issue](https://github.com/yourusername/justetf-downloader/issues) or contact me directly.
+If you're affiliated with JustETF and would like this repository removed or modified, feel free to [open an issue](https://github.com/LucaDC9/JustETF-Data-Downloader/issues) or contact me directly.
 
 ---
 
